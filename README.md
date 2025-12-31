@@ -6,7 +6,7 @@ Bienvenido al repositorio oficial del curso **MicroPython en 1 Hora**, donde apr
 
 ## 📅 Ver desde YouTube
 El primer video del curso se estrenó el **29 de noviembre de 2025**.  
-Activa el recordatorio y sé de los primeros en aprender: [Enlace al curso](https://www.youtube.com/watch?v=vMlZFcut6z8&list=PLS-AmqANXwqrkx5pZtyyd3lf5QgzxvvtG&index=1)
+Entra ahora: [Enlace al curso](https://www.youtube.com/watch?v=vMlZFcut6z8&list=PLS-AmqANXwqrkx5pZtyyd3lf5QgzxvvtG&index=1)
 
 ## ⚡ Cómo usar los códigos
 
